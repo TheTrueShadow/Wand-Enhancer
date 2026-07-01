@@ -27,6 +27,7 @@ Yes. This project is entirely open-source, allowing anyone to audit the code. It
 
 ## 🌐 Remote Web Panel (Currently broken) 
  You will get [ERROR] Failed to patch: [ENHANCER] Failed to apply patches: RemoteWebPanelPreview. The version may not be supported.
+ 
 ~~WandEnhancer includes a built-in **Remote Web Panel** allowing you to control app features directly from your phone.~~
 
 ~~### Quick Start:~~
