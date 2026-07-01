@@ -25,7 +25,7 @@ Yes. This project is entirely open-source, allowing anyone to audit the code. It
 ✅ AI Features <br/>
 ✅ Remote web panel (Remote Connect on mobile) <br/>
 
-## 🌐 Remote Web Panel
+## 🌐 Remote Web Panel (Currently broken)
 WandEnhancer includes a built-in **Remote Web Panel** allowing you to control app features directly from your phone.
 
 ### Quick Start:
