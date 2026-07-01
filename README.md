@@ -26,17 +26,17 @@ Yes. This project is entirely open-source, allowing anyone to audit the code. It
 ✅ Remote web panel (Remote Connect on mobile) <br/>
 
 ## 🌐 Remote Web Panel (Currently broken) 
-(([ERROR] Failed to patch: [ENHANCER] Failed to apply patches: RemoteWebPanelPreview. The version may not be supported.))
-WandEnhancer includes a built-in **Remote Web Panel** allowing you to control app features directly from your phone.
+ You will get [ERROR] Failed to patch: [ENHANCER] Failed to apply patches: RemoteWebPanelPreview. The version may not be supported.
+~~WandEnhancer includes a built-in **Remote Web Panel** allowing you to control app features directly from your phone.~~
 
-### Quick Start:
-1. Ensure both your PC and phone are on the **same Wi-Fi network**.
-2. Hover over the **Connect** button in the top bar of WandEnhancer.
-3. Scan the displayed **QR code** with your phone's camera.
+~~### Quick Start:~~
+~~1. Ensure both your PC and phone are on the **same Wi-Fi network**.~~
+~~2. Hover over the **Connect** button in the top bar of WandEnhancer.~~
+~~3. Scan the displayed **QR code** with your phone's camera.~~
 
-### Troubleshooting & Remote Access:
-- **Page isn't loading?** First, ensure both your PC and phone are connected to the **same local network**. Some routers and guest Wi-Fi networks enable client isolation/AP isolation, which blocks devices on the same SSID from reaching each other. If it still does not load, check Windows Firewall and allow inbound traffic on TCP port `3223` for your local network. If Windows marked your connection as **Public**, switching it to **Private** can also help.
-- **Using mobile data or a different network?** If you want to use the panel over mobile data (LTE/5G) or from an entirely different network, you can use [Tailscale](https://tailscale.com/) or similar VPN tools.
+~~### Troubleshooting & Remote Access:~~
+~~- **Page isn't loading?** First, ensure both your PC and phone are connected to the **same local network**. Some routers and guest Wi-Fi networks enable client isolation/AP isolation, which blocks devices on the same~~ ~~SSID~~ ~~from reaching each other. If it still does not load, check Windows Firewall and allow inbound traffic on TCP port `3223` for your local network. If Windows marked your connection as **Public**, switching it to~~ **Private** ~~can also help.~~
+~~- **Using mobile data or a different network?** If you want to use the panel over mobile data (LTE/5G) or from an entirely different network, you can use [Tailscale](https://tailscale.com/) or similar VPN tools.~~
 
 ## 👀 How to use?
 
